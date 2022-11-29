@@ -6,4 +6,4 @@ CREATE TABLE IF NOT EXISTS public.dim_geography (
   country_region_code varchar(5),
   english_country_region_name varchar(50),
   postal_code varchar(10)
-);SELECT * FROM demo;
+);
