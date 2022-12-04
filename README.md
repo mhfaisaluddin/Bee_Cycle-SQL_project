@@ -9,7 +9,7 @@ Bee Cycle is a cycle stuff retailer, which sells bikes, accessories, clothing, a
 - Discuss with the marketing team to create a perfect bundle product that suits market and campaign needs.
 
 ***The Dashboard***<br>
-Created a marketing dashboard by using **Looker Studio** with the `sales_detail.csv` data source. Visit the link below:<br>
+Created a marketing dashboard through **Looker Studio** with the `sales_detail.csv` data source. Visit the link below:<br>
 https://datastudio.google.com/reporting/061dd908-cdc0-4af3-a52b-c8389759e429
 
 ## File Description
