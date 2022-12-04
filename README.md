@@ -12,3 +12,4 @@ Bee Cycle is a cycle stuff retailer, which sells bikes, accessories, clothing, a
 - queries, a folder that contains .sql queries file for creating tables and questions.
 - .pdf, a report slides to the end-to-end step for conducting the project.
 - .ipnyb, a notebook that records all queries in this project.
+- sales_detail.csv, a detailed sales file for the dashboard report, generated from joining the tables.
