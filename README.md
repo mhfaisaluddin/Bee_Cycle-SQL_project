@@ -1,4 +1,4 @@
-# Bee Cycle - SQL_mini_project
+# Bee Cycle - SQL_project
 
 Bee Cycle is a cycle stuff retailer, which sells bikes, accessories, clothing, and components. Through this project, we will **create tables**, **import the data**, and **explore the data** by creating some queries. [Click to view the report](https://docs.google.com/presentation/d/19VgAtE6Q2gZBUltmXUCOyVC1m_1n95ujL_2qN7UnIOk/edit?usp=sharing)
 
